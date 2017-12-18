@@ -20,5 +20,6 @@ Paises
 * Chile
 * Mexico
 * Cuba
+* Haiti
 * Brasil
 * Uruguay
