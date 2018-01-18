@@ -6,3 +6,5 @@ constant yearly growth. This 'businessization' of science, with its emphasis on 
 is undermining the freedom of ideas that allows huge, often unpredictable, progress."
 
 [Decolonising science reading list](https://medium.com/@chanda/decolonising-science-reading-list-339fb773d51f#.om5w2ivfq)
+
+[Astronomy in color statement supporting astronomers from the globl south](http://astronomyincolor.blogspot.com.co/2018/01/statement-supporting-astronomers-from.html)
